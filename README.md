@@ -1,7 +1,19 @@
-Portfolio Blog of Hwapyrong Jung
+Fresh is a free blog template for Jekyll
 =============================
 
 ![](assets/img/fresh.jpg)
+
+# Demo
+
+![GIF](assets/img/fresh.gif)
+
+View this jekyll theme in action [here](http://artemsheludko.pw/fresh/)
+
+Integrations
+  - [Google Fonts](https://fonts.google.com/)
+  - [Disqus](https://disqus.com/)
+  - [Font Awesome](http://fontawesome.io/)
+  - Social media links
 
 # How to Use
 

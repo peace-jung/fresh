@@ -10,10 +10,10 @@ baseurl: "/"
 url: "https://peace-jung.github.io"
 
 # Social
-github: "https://github.com/peace-jung"
+github: #https://github.com/peace-jung
 
 # Contact form
-email: "hopuo132@gmail.com"
+email: #hopuo132@gmail.com
 
 # Comments
 discus-identifier: # Add your Disqus identifier
